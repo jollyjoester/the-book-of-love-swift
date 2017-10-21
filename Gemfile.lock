@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.3.2)
+    review (2.3.0)
+      rouge
+      rubyzip
+    rouge (1.10.1)
+    rubyzip (1.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  review (= 2.3.0)
+
+BUNDLED WITH
+   1.11.2
